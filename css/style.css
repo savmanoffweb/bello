@@ -308,7 +308,7 @@ ul, ol {
 	gap: 45px
 }
 .service__descript {
-	max-width: 483px;
+	flex: 0 1 485px;
 }
 .service__overline {
 	margin: 0 0 26px;
@@ -659,7 +659,7 @@ ul, ol {
 	background-color: hsl(0, 0%, 100%);
 	box-shadow: 3px 4px 34px hsla(213, 8%, 28%, 0.11);
 	border-radius: 5px;
-	font-size: 1.7rem;
+	font-size: 2.2rem;
 	font-weight: 400;
 	color: hsl(225, 35%, 17%);
 }
